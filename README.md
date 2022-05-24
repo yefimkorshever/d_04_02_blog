@@ -10,13 +10,13 @@
 - Установите зависимости:
 
 ```bash
-pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 
 - Запустите сервер:
 
 ```bash
-python3 manage.py runserver`
+python3 manage.py runserver
 ```
 
 Перейдите [127.0.0.1:8000](http://127.0.0.1:8000) на главную страницу.
