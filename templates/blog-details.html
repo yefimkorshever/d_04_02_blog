@@ -84,6 +84,9 @@
             {% endfor %}
           </div>
         </div>
+        {% block sidebar %}
+          {{ block.super }}
+        {% endblock %}
       </div>
     </div>
   </section>
